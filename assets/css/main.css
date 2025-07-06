@@ -108,7 +108,7 @@ ul {
   --ztc-text-text-6: #1c1d20;
   --ztc-text-text-7: #b3ff00;
   --ztc-text-text-8: #5D626F;
-  --ztc-text-text-9: #FD6004;
+  --ztc-text-text-9: #ef4338;
   --ztc-text-text-10: #252D34;
   --ztc-text-text-11: #DCDCDF;
   --ztc-bg-bg-1: #0E161F;
@@ -125,8 +125,8 @@ ul {
   --ztc-bg-bg11: #56CD55;
   --ztc-bg-bg12: #F0F0F0;
   --ztc-bg-bg13: #F4F4F6;
-  --ztc-bg-main-bg: var(--Gradient-Color, linear-gradient(90deg, #FF4308 0%, #FB8500 100%));
-  --ztc-bg-main-bg2: var(--Button-Gradient, linear-gradient(90deg, #FB8500 0%, #FF4308 90%));
+  --ztc-bg-main-bg: var(--Gradient-Color, linear-gradient(90deg, #FF4308 0%, #ef4338 100%));
+  --ztc-bg-main-bg2: var(--Button-Gradient, linear-gradient(90deg, #ef4338 0%, #FF4308 90%));
   --ztc-bg-bg14: #FD8635;
   --ztc-bg-bg15: #FD8735;
   --ztc-bg-bg16: #FFECE6;
@@ -144,7 +144,7 @@ ul {
   --ztc-border-border-3: #664626;
   --ztc-border-border-4: #62CB4D;
   --ztc-border-border-5: #4FB84C;
-  --ztc-border-border-6: #FE5C05;
+  --ztc-border-border-6: #ef4338;
   --ztc-border-border-7: #FD6E1E;
   --ztc-font-size-font-s10: 10px;
   --ztc-font-size-font-s12: 12px;
@@ -3842,8 +3842,9 @@ Location:
     margin: 0 auto;
     left: 51px;
   }
-  
+
 }
+
 .homepage2-body .about-section-area .about-boxarea.box8 {
   position: relative;
   top: -140px;
@@ -5979,7 +5980,8 @@ Location:
     left: inherit;
     top: 0;
     margin: 0 0 0 0 !important;
-}}
+  }
+}
 
 @media (max-width: 767px) {
   .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box3 {
@@ -5995,7 +5997,7 @@ Location:
     position: relative;
     left: 70px !important;
     top: 0px;
-}
+  }
 }
 
 .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box4 {
@@ -6017,13 +6019,14 @@ Location:
   }
 }
 
-@media (max-width: 430px){
+@media (max-width: 430px) {
   .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box4 {
     margin-left: 0 !important;
     top: -149px;
     left: 166px;
   }
 }
+
 .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box5 {
   margin-left: 0 !important;
   margin-top: -50px !important;
@@ -6068,13 +6071,14 @@ Location:
   }
 }
 
-@media (max-width: 430px){
+@media (max-width: 430px) {
   .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box6 {
     margin: -30px 40px 0 0 !important;
     left: 67px;
     top: -133px;
   }
 }
+
 .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box7 {
   margin-left: 0 !important;
   margin-top: -50px !important;
@@ -6096,6 +6100,7 @@ Location:
     bottom: -30px;
   }
 }
+
 .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box8 {
   margin-left: 0 !important;
   /* margin-top: -50px !important; */
@@ -6116,7 +6121,7 @@ Location:
     left: -26px;
     top: 0px;
   }
-  
+
 }
 
 .homepage2-body .skills-section-area .all-boxes-area .skils-auhtor-area .box2 .content .icons {
