@@ -3735,7 +3735,7 @@ Location:
   line-height: var(-ztc-font-size-font-s16);
   color: var(--ztc-text-text-3);
   opacity: 0.8;
-  margin-top: 32px;
+  margin-top: 20px;
 }
 
 .homepage1-body .about-section-area .about-textarea .pera-content .list-area {
@@ -4306,7 +4306,7 @@ Location:
   line-height: var(--ztc-font-size-font-s22);
   color: var(--ztc-text-text-3);
   opacity: 0.8;
-  margin-top: 32px;
+  margin-top: 20px;
 }
 
 .homepage2-body .about-section-area .about-textarea .pera-content .list-area {
@@ -14762,7 +14762,7 @@ Location:
   font-weight: var(--ztc-weight-medium);
   color: var(--ztc-text-text-3);
   opacity: 0.8;
-  margin-top: 50px;
+  margin-top: 20px;
 
 }
 
