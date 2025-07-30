@@ -3950,6 +3950,7 @@ Location:
 @media (max-width: 767px) {
   .homepage2-body .about-section-area .about-boxareas {
     position: relative;
+    margin-bottom: -200px;
   }
 }
 
